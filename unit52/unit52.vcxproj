@@ -123,6 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="judge_struct_memory_copy.c" />
+    <ClCompile Include="struct_pointer_momery_set.c" />
+    <ClCompile Include="struct_variable_memory_copy.c" />
     <ClCompile Include="struct_variable_memory_set.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

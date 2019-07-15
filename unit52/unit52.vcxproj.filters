@@ -18,5 +18,14 @@
     <ClCompile Include="struct_variable_memory_set.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_pointer_momery_set.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_memory_copy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_memory_copy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
